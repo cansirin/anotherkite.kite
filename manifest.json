@@ -1,0 +1,30 @@
+{
+  "devMode": true,
+  "version": "1",
+  "name": "anotherkite",
+  "type": "worker",
+  "identifier": "com.koding.kites.anotherkite",
+  "path": "~/Kites/anotherkite.kite",
+  "homepage": "ybrs.koding.com/kites/anotherkite",
+  "author": "ybrs",
+  "repository": "git://github.com/ybrs/anotherkite.kite.git",
+  "description": "anotherkite : a Koding kite",
+  "category": "web-api",
+  "source": {
+    "blocks": {
+      "kite": {
+        "files": [
+          "./index.coffee"
+        ]
+      }
+    }
+  },
+  "options": {
+    "privacy": "private"
+  },
+  "icns": {
+    "128": "./resources/icon.128.png"
+  },
+  "dependencies": [],
+  "apiAddress": "https://new.koding.com"
+}

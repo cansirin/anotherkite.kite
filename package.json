@@ -1,0 +1,7 @@
+{
+  "name": "anotherkite.kite",
+  "main": "index.js",
+  "dependencies": {
+    "kd-kite": "latest"
+  }
+}
